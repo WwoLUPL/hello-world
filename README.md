@@ -1,2 +1,2 @@
 # hello-world
-my training tentative repository
+This is my training tentative repository.
